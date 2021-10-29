@@ -9,7 +9,7 @@
     <td style="border: none; padding: 0;"> <img src="https://i.imgur.com/ohPAuEU.png" width='30' style='margin-right: 1rem;' /> </td>
     <td style="border: none; padding: 0;"> <img src="https://i.imgur.com/gAiqgJj.png" width='30' style='margin-right: 1rem;' /> </td>
     <td style="border: none; padding: 0;"> <img src="https://i.imgur.com/7OjgmRE.png" width='35' style='margin-right: 1rem;' /> </td>
-  <td style="border: none; padding: 0;"> <img src="https://i.imgur.com/7OjgmRE.png" width='35' style='margin-right: 1rem;' /> </td>
+  <td style="border: none; padding: 0;"> <img src="https://i.imgur.com/00pzoBy.png" width='35' style='margin-right: 1rem;' /> </td>
   <td style="border: none; padding: 0;"> <img src="https://download.logo.wine/logo/Adobe_XD/Adobe_XD-Logo.wine.png" width='50' style='margin-right: 1rem;' /> </td>
 </tr>
   
