@@ -19,8 +19,8 @@
 
 <table style="border: none; margin: 2rem 0;">
 <tr>
-     <td style="border: none; padding: 0; margin: 0;"> <a href='https://lokeshparmar998.tech/'><img src='https://i.imgur.com/9ii8UNw.png' width="25" style="margin: 0 0.7rem"/></a> </td>
-    <td style="border: none; padding: 0; margin: 0;"> <a href='https://blog.lokeshparmar998.tech/'><img src='https://i.imgur.com/ctmVtE9.png' width="25" style="margin: 0 0.7rem"/></a> </td>
+     <td style="border: none; padding: 0; margin: 0;"> <a href='https://lokeshparmar.tech/'><img src='https://i.imgur.com/9ii8UNw.png' width="25" style="margin: 0 0.7rem"/></a> </td>
+    <td style="border: none; padding: 0; margin: 0;"> <a href='https://blog.lokeshparmar.tech/'><img src='https://i.imgur.com/ctmVtE9.png' width="25" style="margin: 0 0.7rem"/></a> </td>
     <td style="border: none; padding: 0; margin: 0;"><a href='https://twitter.com/lokeshparmar998'><img src='https://i.imgur.com/CW3MuaF.png' width="25" style="margin: 0 0.7rem" /></a> </td>
     <td style="border: none; padding: 0; margin: 0;"> <a href='https://www.linkedin.com/in/lokeshparmar998/'><img src='https://i.imgur.com/YwYwxUP.png' width="25" style="margin: 0 0.7rem"/></a> </td>
 </tr>
