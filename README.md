@@ -32,8 +32,5 @@
 <img src="https://github-profile-trophy.vercel.app/?username=lokeshparmar998&column=7&no-frame=true"/>
 <a href="#"> <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=lokeshparmar998&theme=tokyonight" /> </a>
 <a href="#"> <img width="40%" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=lokeshparmar998&layout=compact&theme=radical" /> </a>
-<br>
-<br>
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=lokeshparmar998&theme=xcode" alt="Lokesh's github stats" />
 
 
